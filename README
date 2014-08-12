@@ -1,3 +1,5 @@
-Some exercises as a companion for the book Learn You a Haskell For Great Good!
+These are my solutions to the Haskell problems compiled by Noel Markham as a companion for the book 'Learn You a Haskell for Great Good!'
 
-See http://learnyouahaskell.com/chapters
+The book: http://learnyouahaskell.com/chapters
+
+The original repo which contains the exercises: https://github.com/noelmarkham/learn-you-a-haskell-exercises
